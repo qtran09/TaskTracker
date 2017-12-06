@@ -1,0 +1,2 @@
+vivaldi.exe
+Battle.net.exe
