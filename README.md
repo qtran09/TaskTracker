@@ -1,6 +1,6 @@
 # TaskTracker
 Logs time of computer and program startup/shutdown
 
-##TODO
+## TODO
 Write batch script to have this program begin on device startup
 Use data to create data visualizations
